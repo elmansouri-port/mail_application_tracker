@@ -20,7 +20,6 @@ Update the mail.json file with the same list of email addresses.
 
 Run the server script:
 
-bash```
 Copy code
 python server_track.py
 use www.pythonanywhere.com to host your server to be online and use it over the internet.
